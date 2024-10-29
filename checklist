@@ -1,0 +1,26 @@
+
+OK • isalpha
+OK • isdigit
+TESTAR • isalnum
+OK • isascii
+OK • isprint
+OK clea• strlen
+• memset
+• bzero
+• memcpy
+• memmove
+OK • strlcpy
+OK • strlcat
+• toupper
+• tolower
+OK • strchr
+TESTAR • strrchr
+OK • strncmp
+• memchr
+• memcmp
+• strnstr
+• atoi
+
+https://github.com/pasqualerossi/Libft/blob/libft/libft.h
+plano b
+https://github.com/Glagan/42-libft/blob/master
